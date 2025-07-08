@@ -1,0 +1,72 @@
+# 配置
+conf:
+  # 最后更新时间
+  last: 2024年03月5日 9:27:49
+  # pdf简历url
+  pdf: https://lansepeach.gitee.io/jianli/%E7%AE%80%E5%8E%86.pdf
+  # 各级标题
+  lv: 
+    l1: 专业技能
+    l2: 项目经验
+    l3: 作品
+    l4: 项目描述
+    l5: 技术栈
+
+# 基础信息
+basic:
+  cnName: 陶溢
+  enName: lansepeach
+  sex: 男
+  birth: 公元2000年
+  objective: 全栈学习中
+  city: 淮南
+  overall: 大专 / 2020年毕业 · 应届生
+  college: 安徽工贸职业技术学院 · 计算机应用技术
+  phone: 19909643507
+  email: admin@lansepeach.cn
+  # 别再前面加https和www
+  homepage: lansepeach.cn
+  # 别再前面加https和www
+  git: github.com/lansepeach
+
+# 专业技能
+skill:
+  - 熟悉了解linux，php，mysql，nginx，一些运用方法，以及网站域名解析备案方面，熟练操作；
+  - 会安装调试以及分配监控设备的网络，以及配置基本网络路由ipv4和ipv6；
+  - 学习开发过微信公众号和基于Wepy的微信小程序；
+  - 制作过上线过门户网站以及私有云nas存储等服务；
+  - 了解会安装计算机的基本硬件安装以及win和linux操作系统的卸载和驱动的安装;
+  - 会使用OBS Studio等直播软件进行直播或者录屏剪辑视频等操作；
+
+# 项目经验
+exp:
+
+  - name: 个人博客
+    # 如果一行太长，使用 - 拆分
+    des:
+      - 记录一些个人生活
+    # 使用' '隔开
+    stack: nginx
+    link: https://blog.lansepeach.cn/
+
+  - name: 服务器运行监控
+    # 如果一行太长，使用 - 拆分
+    des:
+      - 监控服务器的性能与运行情况
+    # 使用' '隔开
+    stack: docker
+    link: https://jk.lansepeach.cn/
+
+  - name: nas云存储服务
+    # 如果一行太长，使用 - 拆分
+    des:
+      - 存储一些个人文件服务
+    # 使用' '隔开
+    stack: docker
+    link: https://yun.463791874.xyz/
+
+ 
+
+
+
+
